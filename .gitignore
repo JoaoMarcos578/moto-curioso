@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Modelo, dataset e resultados de treino
+*.pt
+*.onnx
+dataset/
+runs/
+backend/model/
+
+# IDEs e ferramentas
+.idea/
+.vscode/
+.claude/
+*.iml
+
+# Segredos
+.env
