@@ -1,4 +1,4 @@
-# 🏍️ Moto Curioso
+Moto Curioso
 
 Aplicativo Android que identifica modelos de motos **Royal Enfield** a partir de uma foto, usando reconhecimento de imagem com Inteligência Artificial.
 
